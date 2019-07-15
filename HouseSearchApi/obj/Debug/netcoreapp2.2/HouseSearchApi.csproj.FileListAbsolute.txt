@@ -1,0 +1,14 @@
+C:\Work\Docs\temp\Job Search\Learn\React\HouseSearcher_React\HouseSearchApi\bin\Debug\netcoreapp2.2\HouseSearchApi.deps.json
+C:\Work\Docs\temp\Job Search\Learn\React\HouseSearcher_React\HouseSearchApi\bin\Debug\netcoreapp2.2\HouseSearchApi.runtimeconfig.json
+C:\Work\Docs\temp\Job Search\Learn\React\HouseSearcher_React\HouseSearchApi\bin\Debug\netcoreapp2.2\HouseSearchApi.runtimeconfig.dev.json
+c:\Work\Docs\temp\Job Search\Learn\React\HouseSearcher_React\HouseSearchApi\bin\Debug\netcoreapp2.2\HouseSearchApi.dll
+c:\Work\Docs\temp\Job Search\Learn\React\HouseSearcher_React\HouseSearchApi\bin\Debug\netcoreapp2.2\HouseSearchApi.pdb
+c:\Work\Docs\temp\Job Search\Learn\React\HouseSearcher_React\HouseSearchApi\obj\Debug\netcoreapp2.2\HouseSearchApi.csprojAssemblyReference.cache
+c:\Work\Docs\temp\Job Search\Learn\React\HouseSearcher_React\HouseSearchApi\obj\Debug\netcoreapp2.2\HouseSearchApi.csproj.CoreCompileInputs.cache
+c:\Work\Docs\temp\Job Search\Learn\React\HouseSearcher_React\HouseSearchApi\obj\Debug\netcoreapp2.2\HouseSearchApi.RazorAssemblyInfo.cache
+c:\Work\Docs\temp\Job Search\Learn\React\HouseSearcher_React\HouseSearchApi\obj\Debug\netcoreapp2.2\HouseSearchApi.RazorAssemblyInfo.cs
+c:\Work\Docs\temp\Job Search\Learn\React\HouseSearcher_React\HouseSearchApi\obj\Debug\netcoreapp2.2\HouseSearchApi.AssemblyInfoInputs.cache
+c:\Work\Docs\temp\Job Search\Learn\React\HouseSearcher_React\HouseSearchApi\obj\Debug\netcoreapp2.2\HouseSearchApi.AssemblyInfo.cs
+c:\Work\Docs\temp\Job Search\Learn\React\HouseSearcher_React\HouseSearchApi\obj\Debug\netcoreapp2.2\HouseSearchApi.RazorTargetAssemblyInfo.cache
+c:\Work\Docs\temp\Job Search\Learn\React\HouseSearcher_React\HouseSearchApi\obj\Debug\netcoreapp2.2\HouseSearchApi.dll
+c:\Work\Docs\temp\Job Search\Learn\React\HouseSearcher_React\HouseSearchApi\obj\Debug\netcoreapp2.2\HouseSearchApi.pdb
