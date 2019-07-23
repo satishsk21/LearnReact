@@ -8,8 +8,8 @@
 
 ## Technology Used
 
-* HTML, React, Bootstrap is used as the frontend.
-* ASP .Net Core WebAPI as Backend.
+* HTML, React, Bootstrap is used for the frontend.
+* ASP .Net Core WebAPI for Backend.
 * MongoDB is used for the database.
 * Google Maps react component is used for maps.
 
